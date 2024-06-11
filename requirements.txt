@@ -1,5 +1,5 @@
 Django>=3.0,<4.0
 psycopg2-binary>=2.8
-celery
-redis
-djangorestframework
+celery==5.4.0
+redis==4.3.4
+drf-yasg==1.21.7
